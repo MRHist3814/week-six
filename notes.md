@@ -24,10 +24,16 @@ WORK
 
 * Unfortunately, Voyant didn't want to cooperate with the data set I was using. I think there was too much data, or too many URLS, and it constantly crashed, with no error messages to help rectify the situation.
 
-* Sadly I abandoned my plans for Lucy Copland's diary and went to work on Carl Hunnius' diary instead.
+* Sadly I abandoned my plans for Lucy Copland's diary and went to work on a different diary instead.
+
+  * In browsing the list, I noticed the diaries of 'Thomas Ryan.' That's my brother's name, so I decided to give them a shot.
 
 WGET
 
 * It made most sense for me to start with WGET for this diary. I modified the python code from Week 2 to work with my chosen website and images. Surprisingly, it worked first time.
 
-* I followed it with the standard wget command and successfully downloaded all 87 images of the diary.
+* I followed it with the standard wget command and successfully downloaded all 74 images of the diary. (Screenshot 1).
+
+  * However, due to the urls of the images (they all ended in 'default.png'), it named them all as 'default' rather than their file names, and then added numerical values on the end. The numerical values made it so that the png extension was obscured, so I manually had to rename and correct them all to the normal .png format.
+  
+* With all of the files fixed and named after each page of the dairy, I could move on to extracting information from them.
