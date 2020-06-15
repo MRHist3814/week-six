@@ -37,3 +37,9 @@ WGET
   * However, due to the URLs of the images (they all ended in 'default.png'), it named them all as 'default' rather than their file names, and then added numerical values on the end. The numerical values made it so that the png extension was obscured, so I manually had to rename and correct them all to the normal .png format.
   
 * With all of the files fixed and named after each page of the dairy, I could move on to extracting information from them.
+
+OCR
+
+* The next logical step seemed to be OCRing the images to extract the text from them. The diaries are very legible, so at this stage I hope/think it'll be straightforward.
+
+* Initially the code to use in RStudio didn't work, but I realized it was set to search for .jpg files and I'm using .png files. Eventually I got all of the images into .txt documents, though it took about an hour for RStudio to complete the process.
