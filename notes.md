@@ -42,4 +42,16 @@ OCR
 
 * The next logical step seemed to be OCRing the images to extract the text from them. The diaries are very legible, so at this stage I hope/think it'll be straightforward.
 
-* Initially the code to use in RStudio didn't work, but I realized it was set to search for .jpg files and I'm using .png files. Eventually I got all of the images into .txt documents, though it took about an hour for RStudio to complete the process.
+* Initially the code to use in RStudio didn't work, but I realized it was set to search for .jpg files and I'm using .png files. Eventually I got all of the images into .txt documents, though it took an hour and a half for RStudio to complete the process. (Screenshot 2).
+
+VOYANT
+
+* I put the OCR text documents into Voyant and generated an end product that can be found at the following URL:
+
+  * https://voyant-tools.org/?corpus=dba48a189ff6b3319b6eb394dabefd9f
+
+* The wordcloud and terms list had some rather apparent words with significant usage. (Screenshot 3).
+
+  * Verbs were highly prevalent. Came, went, got, took, etc. This makes sense to me, it's a personal diary recounting actions taken each day.
+  
+  * There is also signficant emphasis on acquaintances and relatives. Susie, Walter, Rol, etc.
