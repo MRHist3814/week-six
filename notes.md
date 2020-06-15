@@ -22,7 +22,7 @@ WORK
   
   * I also added some stopwords to get rid of repetitive and unecessary info (day names, month names, 1819, etc.).
 
-* Unfortunately, Voyant didn't want to cooperate with the data set I was using. I think there was too much data, or too many URLS, and it constantly crashed, with no error messages to help rectify the situation.
+* Unfortunately, Voyant didn't want to cooperate with the data set I was using. I think there was too much data, or too many URLs, and it constantly crashed, with no error messages to help rectify the situation.
 
 * Sadly I abandoned my plans for Lucy Copland's diary and went to work on a different diary instead.
 
@@ -34,6 +34,6 @@ WGET
 
 * I followed it with the standard wget command and successfully downloaded all 74 images of the diary. (Screenshot 1).
 
-  * However, due to the urls of the images (they all ended in 'default.png'), it named them all as 'default' rather than their file names, and then added numerical values on the end. The numerical values made it so that the png extension was obscured, so I manually had to rename and correct them all to the normal .png format.
+  * However, due to the URLs of the images (they all ended in 'default.png'), it named them all as 'default' rather than their file names, and then added numerical values on the end. The numerical values made it so that the png extension was obscured, so I manually had to rename and correct them all to the normal .png format.
   
 * With all of the files fixed and named after each page of the dairy, I could move on to extracting information from them.
