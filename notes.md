@@ -55,3 +55,21 @@ VOYANT
   * Verbs were highly prevalent. Came, went, got, took, etc. This makes sense to me, it's a personal diary recounting actions taken each day.
   
   * There is also signficant emphasis on acquaintances and relatives. Susie, Walter, Rol, etc.
+  
+  * I noticed a trend of words that decrease in usage over time: drawing, band, carriage, room, riding, nixon, clarinet. (Screenshot 4).
+    
+  * Given that the trends are produced chronologically, I made the assumption that would be tied to the weather. Indoor activities (like drawing and clarinet) during the colder months, and therefore less mentions in later months of warmer weather.
+
+ANTCONC
+
+* I decided to take the next step in AntConc, to see the broader context of the words. I loaded up the OCR text files and searched some of the words on my shortlist.
+
+* 'Band' apparently referred to the band room where the clarinet was practiced. (Screenshot 5). This is also the same source as the term 'room.'
+
+* You can see 'Nixon' in some of those sentences, so I decided to search that term next. As it happens, Mr. Nixon was teaching Thomas how to play clarinet. (Screenshot 6).
+
+* 'Carriage' and 'riding' were less definitive. However, looking up the terms 'snow' I did find information that perhaps links. 'Snow' is mentioned in tandem with riding a horse, and not having to walk through it. Perhaps there is merit in riding more frequently in the colder/snowier months? (Screenshot 7).
+
+* The term 'car' was an interesting one. Though not explicitly tied to weather, you can see that the mentions occur mostly in later documents, correlating to the return to colder months. Did streetcar usage go up as colder weather came about? (Screenshot 8).
+
+* I think this could be an interesting avenue to explore for research. How does the weather impact the writing of Thomas Ryan's diary? What patterns of word usage develop over the change in seasons?
