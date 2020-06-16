@@ -73,3 +73,13 @@ ANTCONC
 * The term 'car' was an interesting one. Though not explicitly tied to weather, you can see that the mentions occur mostly in later documents, correlating to the return to colder months. Did streetcar usage go up as colder weather came about? (Screenshot 8).
 
 * I think this could be an interesting avenue to explore for research. How does the weather impact the writing of Thomas Ryan's diary? What patterns of word usage develop over the change in seasons?
+
+STATIC WEBSITE
+
+* I decided the best way to showcase my work was using the static website I'd already created in Week 5. However, I really struggled with the aspects that went beyond the bare minumum last week, so I was worried about my results.
+
+* Perhaps because I was coming at this refreshed, the process went remarkably smoothly. I even managed to figure out the aspects that were troubling me last week, and I uploaded and embedded images without any problems.
+
+  * I used this tutorial to help embed images: https://www.youtube.com/watch?v=_1vmtqnKQew
+
+* When I was done, I saved my work and refreshed my .io page a few minutes later, and everything worked perfectly!
